@@ -1,4 +1,4 @@
-artist,track_name,lyrics,lyrics_annotation,work_meta,recording_meta,release_meta,artist_meta,secondhandsong_artist_meta,aligned_id,aligned_title
+aartist,track_name,genius/lyrics,genius/lyrics_annotation,musicbrainz/work_meta,musicbrainz/recording_meta,musicbrainz/release_meta,musicbrainz/artist_meta,secondhandsong/artist_meta,sonar_id,chord_annotation_id
 Thelonious Monk,Evidence,NF,NF,work_f1875b4c-ac07-3614-9bd2-4259e1865f07.json,recording_b438e7a3-91b9-4e43-9551-03b07036f3f3.json,release_e65a3c02-84c4-41b8-802f-71b5d42ac92a.json,artist_b438e7a3-91b9-4e43-9551-03b07036f3f3.json,shs_2288.json,jaah_76,Evidence
 Charlie Parker All-Stars,Parker's Mood,NF,NF,work_93618e9e-4bf8-3cd9-8b72-258750d4222c.json,recording_c50ea630-b5f0-4c12-8e75-0321757d69a3.json,release_a90eeed6-dc07-4173-938c-49e63142f299.json,artist_c50ea630-b5f0-4c12-8e75-0321757d69a3.json,NF,jaah_78,Parker's Mood
 Jelly Roll Morton's Red Hot Peppers,Grandpa's Spells,NF,NF,work_097a47db-97fe-3c26-beee-0a2fd0a3fa08.json,recording_cc86ea4d-7a0b-443e-85f5-7352313de2e5.json,release_a90eeed6-dc07-4173-938c-49e63142f299.json,artist_cc86ea4d-7a0b-443e-85f5-7352313de2e5.json,NF,jaah_77,Grandpa's Spells

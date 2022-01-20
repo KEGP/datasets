@@ -1,4 +1,4 @@
-﻿artist;track_name;lyrics;lyrics_annotation;work_meta;recording_meta;release_meta;artist_meta;secondhandsong_artist_meta;aligned_id;aligned_title
+﻿artist;track_name;genius/lyrics;genius/lyrics_annotation;musicbrainz/work_meta;musicbrainz/recording_meta;musicbrainz/release_meta;musicbrainz/artist_meta;secondhandsong/artist_meta;sonar_id;chord_annotation_id
 Gerhard Hu_sch;NF;NF;NF;work_bd1bba90-c41b-3499-971d-d98e9a4717d2.json;recording_e2b9f10d-25cd-46b8-a565-b15da5d42ad3.json;release_9e2fcbe4-e7f3-45c2-b24e-eb304f261fa9.json;artist_e2b9f10d-25cd-46b8-a565-b15da5d42ad3.json;NF;N/A;
 Gerhard Hu_sch;NF;NF;NF;work_5e734626-1ccc-3399-97ea-76b872f34efd.json;recording_8569bd3e-eca9-495c-99db-ab35e65e2251.json;release_9e2fcbe4-e7f3-45c2-b24e-eb304f261fa9.json;artist_8569bd3e-eca9-495c-99db-ab35e65e2251.json;NF;N/A;
 Gerhard Hu_sch;NF;NF;NF;work_2b91cea1-60b6-302c-8b3a-4c43d38d3228.json;recording_d94d4166-c6fc-4932-baa8-e79534592f37.json;release_9e2fcbe4-e7f3-45c2-b24e-eb304f261fa9.json;artist_d94d4166-c6fc-4932-baa8-e79534592f37.json;NF;N/A;
